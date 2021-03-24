@@ -1,4 +1,4 @@
-# C-SL-output-log
+# C:SL-output-log
 game output logs, may include outpu from loading screen mod, etc.
 
 
