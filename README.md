@@ -1,5 +1,5 @@
-# C:SL-output-log
-game output logs, may include outpu from loading screen mod, etc.
+# C:SL output log
+game output logs, may include output from loading screen mod, harmony, etc.
 
 
 ⚠ WARNING ⚠
